@@ -1,3 +1,4 @@
+let randNum = 
 let element = document.querySelector('button');
 
 function receivedQuote(){
